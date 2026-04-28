@@ -11,7 +11,7 @@ If you're building production systems, this repo shows you how.
 
 ---
 
-## 🚀 What This Repo Is
+## What This Repo Is
 
 This is a collection of:
 
@@ -36,7 +36,7 @@ They are composable primitives you can deploy into real systems.
 
 ---
 
-## 🎯 Why This Matters
+## Why This Matters
 
 Vision systems fail at ambiguity.
 
@@ -58,7 +58,7 @@ Every example here treats:
 
 ---
 
-## 🧠 Design Philosophy
+## Design Philosophy
 
 We follow five principles:
 
@@ -97,7 +97,7 @@ Failure modes are documented.
 
 ---
 
-## 🏗 Repository Structure
+## Repository Structure
 
 Each ability example includes:
 
@@ -118,7 +118,7 @@ Where applicable, examples demonstrate:
 
 ---
 
-## 💡 Example Use Cases
+## Example Use Cases
 
 You’ll find patterns applicable to:
 
@@ -142,7 +142,7 @@ You can combine multiple abilities to build:
 
 ---
 
-## 🛠 Who This Is For
+## Who This Is For
 
 This repository is built for:
 
@@ -164,7 +164,7 @@ This repository is built for:
 
 ---
 
-## ⚙ Deployment Compatibility
+## Deployment Compatibility
 
 All examples are designed to work with:
 
@@ -183,7 +183,7 @@ They are intentionally written to be:
 
 ---
 
-## 📊 How to Use This Repo
+## How to Use This Repo
 
 1. Identify a use case similar to yours  
 2. Review the ability structure  
@@ -197,7 +197,7 @@ It is about designing a system.
 
 ---
 
-## 🔬 From Example to Production
+## From Example to Production
 
 If you want to move beyond examples:
 
@@ -209,30 +209,3 @@ If you want to move beyond examples:
 
 Visual intelligence becomes reliable when treated as infrastructure, not novelty.
 
----
-
-## 🌊 The Bigger Picture
-
-We believe:
-
-- You should not need to train a custom model to analyze video  
-- Prompt-driven visual intelligence should be testable  
-- Edge deployment should not require ML expertise  
-- Structured outputs should be the default  
-
-This repository demonstrates that philosophy in executable form.
-
----
-
-## 📌 Final Note
-
-These examples are intentionally opinionated.
-
-They favor:
-- Precision over cleverness  
-- Determinism over creativity  
-- Contracts over vibes  
-
-Because production systems require discipline.
-
-If you are building with visual AI and want it to behave like software — this is your starting point.
