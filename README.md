@@ -201,11 +201,10 @@ It is about designing a system.
 
 If you want to move beyond examples:
 
-- Add dataset-backed evaluation  
-- Introduce confidence gating  
+- Add dataset-backed evaluation
 - Define escalation paths for `NO` or ambiguous cases  
-- Log trace IDs  
-- Version prompts alongside code  
+- Version prompts
+- Use the EyePop.ai refine prompt agent in the dashboard
 
 Visual intelligence becomes reliable when treated as infrastructure, not novelty.
 
